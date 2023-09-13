@@ -42,7 +42,7 @@ function Options() {
         onClick={getJoke}
         className="rounded border border-white bg-white px-3 py-2 text-black  hover:bg-slate-200"
       >
-        {fetching ? 'Fetching...' : 'Tell me a Joke'}
+        {fetching ? 'Fetching...' : 'Crack a Joke'}
       </button>
     </div>
   );
