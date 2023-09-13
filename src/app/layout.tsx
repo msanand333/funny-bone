@@ -6,7 +6,8 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Funny Bone 😂',
-  description: 'Programming Puns that Code Your Laughter, One Line at a Time!',
+  description:
+    'Bringing Laughter to Your Heart, One Joke at a Time, Just for You, My Love!',
 };
 
 export default function RootLayout({
